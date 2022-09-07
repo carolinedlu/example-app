@@ -1,1 +1,1 @@
-streamlit-nightly-build
+streamlit-nightly
